@@ -1,0 +1,7 @@
+num1 = int(input("enter the first no :"))
+num2 = int(input("enter the second number :"))
+num3 = float(input("enter the third number :"))
+num=float(num3)
+num=float(num2)
+num=float(num1)
+print(num1+num2+num3/3)
